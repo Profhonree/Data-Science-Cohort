@@ -1,4 +1,4 @@
-import math
+
 # SIMPLE CALCULATOR
 # ENTER ONLY TWO NUMBERS
 a = str(input("Enter the first number:  "))
